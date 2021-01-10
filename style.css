@@ -1,0 +1,141 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: gray;
+}
+a{
+    text-decoration: none;
+}
+header{
+    height: 70px;
+}
+
+
+#left-nav{
+    float: left;
+}
+header h1,h2{
+    margin-left: 50px;
+}
+#right-nav li{
+    float: right;
+    margin: 10px;
+    
+
+}
+#right-nav a:hover{
+    color: darkorange;
+
+}
+ul li{
+    list-style-type: none;
+}
+img{
+    margin: 20px 150px;
+}
+
+div{ 
+padding : 1%; 
+color: white; 
+width: 30%; 
+         
+} 
+.leftdiv 
+{ 
+float: left; 
+margin-left: 50px;
+} 
+.middlediv 
+{ 
+float: left; 
+         
+} 
+.middlediv img{
+    float: left;
+    margin: 10px 10px;
+    border: 1px solid gray;
+    padding: 4px;
+}
+.leftdiv img{
+    float: left;
+    margin: 10px 10px;
+    border: 1px solid gray;
+    padding: 4px;
+}
+.lastdiv{
+    margin-left: 50px;
+    text-align: justify;
+
+}
+.leftdiv p{
+    text-align: left;
+    padding: 10px;
+}
+.middlediv p{
+    text-align: left;
+    padding: 10px;
+}
+.lastdiv a{
+    float: right;
+}
+.leftdiv a{
+    float: right;
+    color: darkorange;
+}
+.middlediv a{
+    float: right;
+    color: darkorange;
+}
+
+.rightdiv{
+    float: left;
+    padding: 10px;
+    
+    
+}
+.rightdiv a{
+    padding: 20px;
+    
+
+}
+.rightdiv a:hover{
+    color: darkorange;
+}
+
+
+
+
+
+
+
+.rightdiv li{
+    padding: 5px;
+    border-bottom: dotted;
+}
+.lastdiv{
+    float: left;
+}
+.last2div{
+    float: right;
+}
+.lastdiv h2{
+    padding: 10px;
+}
+address{
+    padding: 7px;
+}
+.rightf{
+    float: right;
+}
+.leftf{
+    float: left;
+}
+.lastdiva{
+    color: darkorange;
+}
+footer{
+    border-top: 1px solid darkgray;
+    padding: 20px;
+    clear: both;
+
+}
